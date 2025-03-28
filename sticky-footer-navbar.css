@@ -1,0 +1,11 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.navbar {
+  height: 60px
+}
+
+footer {
+  padding-bottom: 60px;
+}
